@@ -1,0 +1,8 @@
+== Introduction
+Commande TextMate pour ouvrir la déclaration d'une méthode sélectionnée (équivalent de command-B sous NetBeans)
+
+== Installation 
+Créer  la commande avec le Bundle Editor en insérant ce script ruby.
+
+== Utilisation
+Sélectionner le nom de la méthode, puis taper le raccourci clavier que vous avez entré pour la commande.
